@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb

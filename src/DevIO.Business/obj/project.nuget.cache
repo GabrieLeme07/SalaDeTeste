@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4hs3anyXB8B+ZSriuGZfUSsg5NQHvgyZ3Sv7+JQ1F6oJKUnfyNdgQK4QCy6M0yvlRyN2izMryAc1XSfw0Y3vPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

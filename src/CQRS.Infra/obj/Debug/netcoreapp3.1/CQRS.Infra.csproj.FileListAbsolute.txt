@@ -1,0 +1,17 @@
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Infra.deps.json
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Infra.runtimeconfig.json
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Infra.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Infra.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Infra.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Core.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Core.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Infra\obj\Debug\netcoreapp3.1\CQRS.Infra.genruntimeconfig.cache

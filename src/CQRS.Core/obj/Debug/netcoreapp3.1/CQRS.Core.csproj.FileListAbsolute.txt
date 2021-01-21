@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\bin\Debug\netcoreapp3.1\CQRS.Core.deps.json
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\bin\Debug\netcoreapp3.1\CQRS.Core.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\bin\Debug\netcoreapp3.1\CQRS.Core.pdb
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\obj\Debug\netcoreapp3.1\CQRS.Core.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\obj\Debug\netcoreapp3.1\CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\obj\Debug\netcoreapp3.1\CQRS.Core.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\obj\Debug\netcoreapp3.1\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\obj\Debug\netcoreapp3.1\CQRS.Core.dll
+C:\Users\Gabriel\Desktop\SalaDeTestes\SalaDeTestes\API.TestesUnitarios\src\CQRS.Core\obj\Debug\netcoreapp3.1\CQRS.Core.pdb

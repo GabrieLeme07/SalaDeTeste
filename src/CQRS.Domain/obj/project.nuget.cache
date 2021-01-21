@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Fw2WXuVQhgrOvMsGFMaRa4tAkOU9ImzJfxUHDycsW4rar+htTGoGTmKaxOFph5zIJfapnfzLZBXVtYxLuy2eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

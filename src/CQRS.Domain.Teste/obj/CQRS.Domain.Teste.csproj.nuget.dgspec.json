@@ -1,0 +1,448 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain.Teste\\CQRS.Domain.Teste.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.API\\CQRS.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.API\\CQRS.API.csproj",
+        "projectName": "CQRS.API",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.API\\CQRS.API.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj"
+              },
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj",
+        "projectName": "CQRS.Core",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain.Teste\\CQRS.Domain.Teste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain.Teste\\CQRS.Domain.Teste.csproj",
+        "projectName": "CQRS.Domain.Teste",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain.Teste\\CQRS.Domain.Teste.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain.Teste\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.API\\CQRS.API.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.API\\CQRS.API.csproj"
+              },
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj"
+              },
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMoq": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[32.0.2, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj",
+        "projectName": "CQRS.Domain",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj",
+        "projectName": "CQRS.Infra",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\CQRS.Infra.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Desktop\\SalaDeTestes\\SalaDeTestes\\API.TestesUnitarios\\src\\CQRS.Domain\\CQRS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
